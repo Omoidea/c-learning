@@ -1,0 +1,13 @@
+﻿*.exe
+*.obj
+*.pdb
+*.idb
+*.ipch
+*.db
+*.suo
+*.log
+.vs/
+.vscode/
+x64/
+Debug/
+Release/
